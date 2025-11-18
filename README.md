@@ -17,7 +17,7 @@ A tiny command-line tool that fetches **English translations** for a German word
 go build german.go
 ```
 
-This creates an executable named `translator`.
+This creates an executable.
 
 ---
 
