@@ -40,4 +40,4 @@ Example:
 * An internet connection
 * Only prints up to 5 clean translations (for now)
 
-**Be nice on the sever, no heavy requests.**
+**Be nice on the server, no heavy requests.**
